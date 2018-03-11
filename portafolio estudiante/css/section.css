@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	margin:auto;
+	text-decoration-color: #9c9c9c;
+	font-family: 'Gibson', sans-serif, "Helvetica Neue", HelveticaNeue, Arial, sans-serif;
+}
+
+.base{
+	background-image: : url("imagenes/texturas/fondo1.jpg");
+	background-color: #f3f3f3;
+	
+}
+.articulo{
+	padding: 10px;
+	max-width: 800px;
+	background-color: white;
+	align-content: center;
+	max-height: auto;
+}
+
+table tr td{	
+	font-weight: bold;
+	color:#808080;
+}
