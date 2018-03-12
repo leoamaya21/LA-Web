@@ -21,6 +21,7 @@
 table tr td{	
 	font-weight: bold;
 	color:#808080;
+	width: 50%;
 }
 
 footer {
@@ -49,4 +50,5 @@ footer {
 .fotogusto:hover{
 	filter: opacity(.8);
 }
+
 
