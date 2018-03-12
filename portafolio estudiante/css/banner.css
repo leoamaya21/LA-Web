@@ -16,7 +16,8 @@ h3,h4,h5,h6 {
 }
 
 p{
-	text-decoration-color: #9c9c9c;
+	color: #6f6f6f;
+	padding: 6px;
 }
 
 div{
@@ -123,7 +124,7 @@ button:hover{
 	text-decoration-color: #00000;
 }
 .entrada{
-
+	border: 4px solid #ffffff;
 }
 .fotoMuro{
 	border: 4px solid #ffffff;
@@ -145,12 +146,12 @@ nav ul{
 }
 nav ul li{
 	float: left;
-	margin: 12px;
 	overflow-x: hidden;
 }
 
 nav ul li a{
 	display: block;
+	padding: 10px 20px;
 	text-decoration: none;
 	color: #736f6f;
 	font-weight: bold;
